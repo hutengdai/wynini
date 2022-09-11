@@ -1,0 +1,4 @@
+	cons	syll
+a	-	+
+b	+	-
+c	-	-

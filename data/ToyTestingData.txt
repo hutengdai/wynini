@@ -1,0 +1,3 @@
+a b	grammatical
+b a	grammatical
+b b	ungrammatical

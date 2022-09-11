@@ -1,0 +1,3 @@
+a b	grammatical	tensor(4.9895)	tensor(0.0402)
+b a	grammatical	tensor(25.0301)	tensor(0.0400)
+b b	ungrammatical	tensor(25.0301)	tensor(0.0400)

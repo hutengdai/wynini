@@ -1,0 +1,2 @@
+batch_size: 10, learning_rate: 0.01, epochs: 2.00, training_split: 60.00
+epoch: 0, loss: 309.23, time: 14.42 sec, dev perplexity: inf
